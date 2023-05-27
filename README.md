@@ -1,5 +1,5 @@
-# HCAParser is followed https://github.com/nttcslab-nlp/RSTParser_EMNLP22 and adapted to Clause Parsing tasks.
-Hierarchical Clause Annotation subtask - Clause Parsing
+# HCAParser
+Hierarchical Clause Annotation subtask - Clause Parsing. HCAParser is followed https://github.com/nttcslab-nlp/RSTParser_EMNLP22 and adapted to Clause Parsing tasks.
 
 ## Setup
 1. prepare python environment with conda
